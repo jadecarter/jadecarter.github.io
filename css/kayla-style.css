@@ -7,19 +7,6 @@ body {
 }
 
 
-/*nav*/
-
-.nav ul li {
-    color: white;
-    border: white solid 2px;
-    padding: 5px;
-    border-radius: 3px;
-    float: left;
-    text-transform: uppercase;
-    font-size: 10px;
-}
-
-
 /*homepage*/
 
 #homepage-background {
@@ -58,11 +45,14 @@ body {
     height: 100vh;
 }
 
+.bold {
+    font-weight: 700italic;
+}
 
 
 #meet {
     text-align: center;
-    padding-top: 35%;
+    padding-top: 10%;
 }
 
 .bio p {
